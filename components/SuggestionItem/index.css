@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.li {
+  list-style: none;
+  margin-bottom: 5px;
+}
+.arrowImg {
+  width: 20px;
+  height: 20px;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
